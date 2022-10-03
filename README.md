@@ -11,3 +11,8 @@ This program takes functions used in R and creates C counterparts to help unders
 This Rmd notebook contains linear regression analysis of YouTube trending data in the US and logistic regression analysis of a set of CS:GO matches   
 [PFC2: Regression on US YouTube Trending Data](https://github.com/Djeggis/ML_Portfolio/blob/43a91a3c7545ffa42cd0ee06a8a76ea4807288af/Regression.pdf)   
 [PFC2: Classification on CS:GO matches](https://github.com/Djeggis/ML_Portfolio/blob/43a91a3c7545ffa42cd0ee06a8a76ea4807288af/Classification.pdf)   
+## Portfolio Component 3: ML Algorithms from Scratch   
+These programs implement Logistic Regression and Naive-Bayes algorithms from scratch in C++   
+[PFC3: ML Algorithms from Scratch - Logistic Regression Code](https://github.com/Djeggis/ML_Portfolio/blob/d7701726976516cdfd90ef6b98433165985e9139/pfc3_log.cpp)   
+[PFC3: ML Algorithms from Scratch - Naive-Bayes Code](https://github.com/Djeggis/ML_Portfolio/blob/d7701726976516cdfd90ef6b98433165985e9139/pfc3_nb.cpp)   
+[PFC3: ML Algorithms from Scratch - PDF]()   
