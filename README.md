@@ -15,4 +15,4 @@ This Rmd notebook contains linear regression analysis of YouTube trending data i
 These programs implement Logistic Regression and Naive-Bayes algorithms from scratch in C++   
 [PFC3: ML Algorithms from Scratch - Logistic Regression Code](https://github.com/Djeggis/ML_Portfolio/blob/d7701726976516cdfd90ef6b98433165985e9139/pfc3_log.cpp)   
 [PFC3: ML Algorithms from Scratch - Naive-Bayes Code](https://github.com/Djeggis/ML_Portfolio/blob/d7701726976516cdfd90ef6b98433165985e9139/pfc3_nb.cpp)   
-[PFC3: ML Algorithms from Scratch - PDF]()   
+[PFC3: ML Algorithms from Scratch - PDF](https://github.com/Djeggis/ML_Portfolio/blob/5ae52259380451c5e51fff2e77c7d79bb5427dad/pfc3_writeup.pdf)   
