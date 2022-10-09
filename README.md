@@ -22,4 +22,6 @@ These Rmd notebooks contain exploration into smiliarity models (kNN and Decision
 [PFC4: Regression on Spotify Data](https://github.com/Djeggis/ML_Portfolio/blob/3b90d108c96ff469a10694aa79b5857395f25b19/pfc4_Regression.pdf)   
 [PFC4: Classification on CS:GO matches](https://github.com/Djeggis/ML_Portfolio/blob/3b90d108c96ff469a10694aa79b5857395f25b19/pfc4_Classification.pdf)   
 [PFC4: Clustering on Spotify Data](https://github.com/Djeggis/ML_Portfolio/blob/3b90d108c96ff469a10694aa79b5857395f25b19/pfc4_Searching_for_Similarity.pdf)   
-[PFC4: Dimensionality Reduction on Spotify Data](https://github.com/Djeggis/ML_Portfolio/blob/3b90d108c96ff469a10694aa79b5857395f25b19/pfc4_Dimensionality_Reduction.pdf)   
+[PFC4: Dimensionality Reduction on Spotify Data](https://github.com/Djeggis/ML_Portfolio/blob/3b90d108c96ff469a10694aa79b5857395f25b19/pfc4_Dimensionality_Reduction.pdf)
+[PFC4: Searching for Similarity - PDF]()   
+ 
