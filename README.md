@@ -26,6 +26,8 @@ These Rmd notebooks contain exploration into smiliarity models (kNN and Decision
 [PFC4: Searching for Similarity - PDF](https://github.com/Djeggis/ML_Portfolio/blob/3b90d108c96ff469a10694aa79b5857395f25b19/pfc4_Searching_for_Similarity.pdf)   
 ## Portfolio Component 5: Kernel and Ensemble Methods   
 These Rmd notebooks contain exploration into kernel and ensemble methods   
-[PFC5: SVM Regression on Twitch Game Data]()   
-[PFC5: SVM Classification on CS:GO matches]()   
-[PFC5: Ensemble Method Classification on CS:GO matches]()   
+[PFC5: SVM Regression on Twitch Game Data](https://github.com/Djeggis/ML_Portfolio/blob/27e3e3206f137abc767fa40dc432ac543899c1a6/pfc5_Regression.pdf)   
+[PFC5: SVM Classification on CS:GO matches](https://github.com/Djeggis/ML_Portfolio/blob/27e3e3206f137abc767fa40dc432ac543899c1a6/pfc5_Classification.pdf)   
+[PFC5: Ensemble Method Classification on CS:GO matches](https://github.com/Djeggis/ML_Portfolio/blob/27e3e3206f137abc767fa40dc432ac543899c1a6/pfc5_Ensemble_Techniques.pdf)   
+[PFC5: Kernel and Ensemble Methods - PDF](https://github.com/Djeggis/ML_Portfolio/blob/27e3e3206f137abc767fa40dc432ac543899c1a6/pfc5_Kernel_and_Ensemble_Methods.pdf)   
+
