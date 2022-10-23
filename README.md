@@ -17,10 +17,15 @@ These programs implement Logistic Regression and Naive-Bayes algorithms from scr
 [PFC3: ML Algorithms from Scratch - Naive-Bayes Code](https://github.com/Djeggis/ML_Portfolio/blob/d7701726976516cdfd90ef6b98433165985e9139/pfc3_nb.cpp)   
 [PFC3: ML Algorithms from Scratch - PDF](https://github.com/Djeggis/ML_Portfolio/blob/5ae52259380451c5e51fff2e77c7d79bb5427dad/pfc3_writeup.pdf)   
 ## Portfolio Component 4: Searching for Similarity   
-These Rmd notebooks contain exploration into smiliarity models (kNN and Decision Trees), clustering methods, and dimensionality reduction techniques (LDA and PCA).   
+These Rmd notebooks contain exploration into smiliarity models (kNN and Decision Trees), clustering methods, and dimensionality reduction techniques (LDA and PCA)   
 (Collaboration Project with Meinhard Capucao, Ryan Gagliardi, and Ethan Huynh)   
 [PFC4: Regression on Spotify Data](https://github.com/Djeggis/ML_Portfolio/blob/3b90d108c96ff469a10694aa79b5857395f25b19/pfc4_Regression.pdf)   
 [PFC4: Classification on CS:GO matches](https://github.com/Djeggis/ML_Portfolio/blob/3b90d108c96ff469a10694aa79b5857395f25b19/pfc4_Classification.pdf)   
 [PFC4: Clustering on Spotify Data](https://github.com/Djeggis/ML_Portfolio/blob/7c420d1642cf596918ef17198e43e963d8182e8e/pfc4_Clustering.pdf)   
 [PFC4: Dimensionality Reduction on Spotify Data](https://github.com/Djeggis/ML_Portfolio/blob/3b90d108c96ff469a10694aa79b5857395f25b19/pfc4_Dimensionality_Reduction.pdf)   
 [PFC4: Searching for Similarity - PDF](https://github.com/Djeggis/ML_Portfolio/blob/3b90d108c96ff469a10694aa79b5857395f25b19/pfc4_Searching_for_Similarity.pdf)   
+## Portfolio Component 5: Kernel and Ensemble Methods   
+These Rmd notebooks contain exploration into kernel and ensemble methods   
+[PFC5: SVM Regression on Twitch Game Data]()   
+[PFC5: SVM Classification on CS:GO matches]()   
+[PFC5: Ensemble Method Classification on CS:GO matches]()   
