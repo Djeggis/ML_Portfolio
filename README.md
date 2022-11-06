@@ -32,5 +32,5 @@ These Rmd notebooks contain exploration into kernel and ensemble methods
 [PFC5: Kernel and Ensemble Methods - PDF](https://github.com/Djeggis/ML_Portfolio/blob/27e3e3206f137abc767fa40dc432ac543899c1a6/pfc5_Kernel_and_Ensemble_Methods.pdf)   
 ## Portfolio Component 6: ML with sklearn   
 This Python notebook contains exploration through Python's pandas and sklearn library   
-[PFC6: ML with sklearn]()   
+[PFC6: ML with sklearn](https://github.com/Djeggis/ML_Portfolio/blob/2cd7237fd55b367a065f14ae377f47bc392ffb1f/pfc6_ML_with_sklearn.pdf)   
 
