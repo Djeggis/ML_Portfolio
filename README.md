@@ -35,5 +35,5 @@ This Python notebook contains exploration through Python's pandas and sklearn li
 [PFC6: ML with sklearn](https://github.com/Djeggis/ML_Portfolio/blob/2cd7237fd55b367a065f14ae377f47bc392ffb1f/pfc6_ML_with_sklearn.pdf)   
 ## Portfolio Component 7: Image Classification   
 This Python notebook contains exploration into Image Classification using Python's TensorFlow library, specifically keras   
-[PFC7: Image Classification]()   
+[PFC7: Image Classification](https://github.com/Djeggis/ML_Portfolio/blob/cd77bb82b373a899ed0f9f8c7e46b4ddb3547f13/pfc7_Image_Classification.pdf)   
 
